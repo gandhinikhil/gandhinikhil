@@ -5,7 +5,7 @@ My name is Nikhil, I love to to coding and now I focusing most on CP. I also a w
 - 🔭 I’m currently working as  java developer
 - 🌱 I’m currently learning .. CP 
 - 👯 I’m looking to collaborate on big MNCs
-- 🤔 I’m looking for help with needy people and now help for people suffering from thsi pandemic.
+- 🤔 I’m looking for help with needy people and now help for people suffering from this pandemic.
 - 💬 Ask me about my skills strength
 - 📫 How to reach me: gwl.nikhil@gmail.com(offical Mail id)
 
