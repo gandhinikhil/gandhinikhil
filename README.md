@@ -1,5 +1,5 @@
 Hello folks !! 👋
-My name is Nikhil, I love to to coding and now I focusing most on CP. I also a web developer.
+My name is Nikhil, I love to coding and now I am focusing most on CP. I also a web developer.
 
 
 - 🔭 I’m currently working as  java developer
