@@ -12,7 +12,6 @@
   
   Here My Linkedin Profile - https://www.linkedin.com/in/nikhil-gandhi-4254ab193/
   
-  Here My LeetCode Profile - https://leetcode.com/Nikhil_Gandhi/
   
   Here my project click on link to see my repository
   1. E-Pass facility - click on this link to view project sources code ! https://github.com/gandhinikhil/EpassFacility
