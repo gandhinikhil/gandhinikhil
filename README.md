@@ -1,10 +1,12 @@
  Hello folks !! 👋
 
--> My name is Nikhil and I love to code. 
+-> My name is Nikhi. 
 
 ->I am Currently investing most of my time Data Engineer Site.
 
--> I am a Btech graduate(IT,2022) from LNCT Bhopal. Currently working as a Data Engineer at Persistent Systems.
+-> I am a B-tech graduate(IT,2022) from LNCT Bhopal.
+
+-> Currently working as a Data Engineer at Persistent Systems last one year.
 
 -> I am looking to colloborate with MNCs either as a freelancer or a Full time Employee.
 
@@ -18,6 +20,7 @@
   
   
   Here my project click on link to see my repository
+  
   1. E-Pass facility - click on this link to view project sources code ! https://github.com/gandhinikhil/EpassFacility
   2. Stock Management - click on this link to view project sources code ! https://github.com/gandhinikhil/stock-management/tree/master
   3. TO-Do-List - click on this link to view project sources code ! https://github.com/gandhinikhil/ToDo-List
