@@ -1,10 +1,14 @@
  Hello folks !! 👋
 
--> My name is Nikhil and I love to code. I am Currently investing most of my time on Java Technology and DSA.
+-> My name is Nikhil and I love to code. 
 
--> I am a Btech graduate(IT,2022) from LNCT Bhopal. Currently working as a Java Developer at Persistent Systems.
+->I am Currently investing most of my time Data Engineer Site.
+
+-> I am a Btech graduate(IT,2022) from LNCT Bhopal. Currently working as a Data Engineer at Persistent Systems.
 
 -> I am looking to colloborate with MNCs either as a freelancer or a Full time Employee.
+
+-> College Time I learnt Java and developed Project.
 
 -> 📫 You can reach to me: gwl.nikhil@gmail.com
   
