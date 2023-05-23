@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with **Data**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gandhinikhil?tab=repositories](https://github.com/gandhinikhil?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/gandhinikhil?tab=repositories)
 
-- 📝 I regularly update daily Leetcode challege [https://github.com/gandhinikhil/Leetcode-solution](https://github.com/gandhinikhil/Leetcode-solution)
+- 📝 I regularly update daily Leetcode challege [Leetcode](https://github.com/gandhinikhil/Leetcode-solution)
 
 - 💬 Ask me about **Tech and Cricket**
 
 - 📫 How to reach me **gwl.nikhil@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jiFewtwg17HFoctzB9owdqGRmVaYJ7WG/view?usp=share_link](https://drive.google.com/file/d/1jiFewtwg17HFoctzB9owdqGRmVaYJ7WG/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jiFewtwg17HFoctzB9owdqGRmVaYJ7WG/view?usp=share_link)
 
 - ⚡ Fun fact **I am looking at you**
 
