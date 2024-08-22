@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gwl.nikhil@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jiFewtwg17HFoctzB9owdqGRmVaYJ7WG/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uM-nrfF2YjphqG37ypYpXqUpy0V-kQRb/view?usp=sharing)
 
 - ⚡ Fun fact **I am looking at you**
 
