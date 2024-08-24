@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working At [Persistent System Ltd](https://www.persistent.com/)
 
-- 🌱 I’m currently learning **PySpark, AWS, Hadoop,Databricks**
+- 🌱 I’m currently learning **Java Advanced, AWS, Hadoop,Sql Advnaced**
 
 - 🤝 I’m looking for help with **Data**
 
