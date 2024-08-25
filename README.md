@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-gandhi-4254ab193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-gandhi-4254ab193/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/himhelloworld?igshid=mmjiy2i4ndbkzg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/himhelloworld?igshid=mmjiy2i4ndbkzg==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/nikhil_gandhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/himhelloworld" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/https://leetcode.com/nikhil_gandhi/](https://leetcode.com/u/himhelloworld/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/himhelloworld" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
